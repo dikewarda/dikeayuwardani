@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Dike.
 
-I am a student from State Polytechnic of Malang with the Business Information System study program. During college I learned Data Mining, Business Intelligence, and Microsoft Office. I can work with a team and have good skills in processing data.
+I am a student from State Polytechnic of Malang with the Business Information System study program. During college I learned Laravel and Flutter.
 
 - 🔭 I’m currently studying on State Polytechnic of Malang
 - 🌱 I’m currently learning about python
@@ -8,9 +8,10 @@ I am a student from State Polytechnic of Malang with the Business Information Sy
 - 📫 How to reach me: dikeayuw@gmail.com
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="SQL" title="SQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" /></a>
-  <a href="https://powerbi.microsoft.com/en-us/"><img align="left" alt="Power BI" title="Power BI" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
-  <a href="https://lookerstudio.google.com/"><img align="left" alt="Looker Studio" title="Looker Studio" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg" /></a>
+  <a href="#"><img align="left" alt="HTML" title="HTML" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" /></a>
+  <a href=""><img align="left" alt="CSS" title="CSS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" /></a>
+     <a href=""><img align="left" alt="Dart" title="Dart" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/167px-Dart-logo-icon.svg.png?20220708094810" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="25px" src="https://www.php.net//images/logos/new-php-logo.svg" /></a>
   <br>
   <br>
   
