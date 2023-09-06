@@ -1,11 +1,10 @@
 ### Hi! 👋 I'm Dike.
 
-I am a student from State Polytechnic of Malang with the Business Information System study program. During college I learned Laravel and Flutter.
+I am a student from State Polytechnic of Malang with the Business Information System study program. 
 
 - 🔭 I’m currently studying on State Polytechnic of Malang
 - 🌱 I’m currently learning about python
 - 💬 Feel free to ask me 
-- 📫 How to reach me: dikeayuw@gmail.com
 
 ### Tech Stack
   <a href="#"><img align="left" alt="HTML" title="HTML" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/768px-HTML5_Badge.svg.png?20110131171049" /></a>
