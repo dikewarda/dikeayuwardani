@@ -41,5 +41,5 @@
 <a href="https://www.linkedin.com/in/dikeayuwardani/"><img src="https://img.shields.io/badge/-Dike Ayu Wardani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dikeayuw@gmail.com"><img src="https://img.shields.io/badge/-dikeayuw@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dikewarda?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/-@dikewarda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="[https://facebook.com/AVS1508](https://www.facebook.com/dike.celalucetia/)"><img src="https://img.shields.io/badge/-Dike Ayu Wardani-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/dike.celalucetia/"><img src="https://img.shields.io/badge/-Dike Ayu Wardani-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
