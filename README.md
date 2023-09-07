@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Dike -->
+<h1> 👋 Hey there! I'm Dike</h1>
 
 ### 👩🏻‍💻 &nbsp;About Me
 
