@@ -4,7 +4,7 @@
 
 - 💡 &nbsp;I like to explore new technologies.
 - 🎓 &nbsp;I'm currently studying Business Information System at State Polytechnic of Malang.
-- 🌱 &nbsp;I'm currently learning about Machine Learning.
+- 🌱 &nbsp;I'm currently learning about Data Science.
 - 🎮 &nbsp;In my free time, I play games as a hobby.
 - 💬 &nbsp;Feel free to ask me about anything.
 
